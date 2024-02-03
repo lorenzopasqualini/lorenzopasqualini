@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Lorenzo Pasqualini. Born & raised in Argentina <img src="https://api.iconify.design/flag:ar-4x3.svg" height="15" alt="argentina" />, currently living in Barcelona <img src="https://api.iconify.design/flag:es-ct-4x3.svg" height="15" alt="catalunya" />.<br><br>About to gradutate in Digital Business, Design & Innovation from La Salle-Universitat Ramón Llull.</p>
+<p align="left">I'm Lorenzo. Born & raised in Argentina <img src="https://api.iconify.design/flag:ar-4x3.svg" height="15" alt="argentina" />, currently living in Barcelona <img src="https://api.iconify.design/flag:es-ct-4x3.svg" height="15" alt="catalunya" />.<br><br>About to gradutate in Digital Business, Design & Innovation from La Salle-Universitat Ramón Llull.</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I use</h2>
+<h2 align="left">What I use</h2>
 
 ###
 
