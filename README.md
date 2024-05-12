@@ -4,15 +4,7 @@ Born and raised in <img src="https://api.iconify.design/flag:ar-4x3.svg" height=
 🎓Degree in Digital Business Design & Innovation at La Salle-Universitat Ramón Llull.
 
 ## ✨About
-I feel most comfortable in **front-end** with focus on UX/UI design, although I've tried most technologies under the sun. From BI, data analytics, mobile, wireframing, prototyping, testing, database management, you name it.
+I feel most comfortable working with **front-end** technologies, although I've tried most tools under the sun. From UX/UI design, wireframing, prototyping, BI, data analytics, mobile, testing, database management, you name it.
 
 ## 📦Toolbox
-**`JavaScript`**
-`TypeScript`
-**`React.js`**
-`Next.js`
-`Angular`
-**`Figma`**
-`Jest`
-`MongoDB`
-`SQL`
+[![My Skills](https://skillicons.dev/icons?i=js,react,next,angular,figma,mongodb,mysql)](https://skillicons.dev)
